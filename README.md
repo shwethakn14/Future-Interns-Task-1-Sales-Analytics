@@ -30,7 +30,13 @@ Dataset used: Superstore Sales Dataset
 The dataset contains information about products, categories, regions, sales, profit, orders, and other business-related fields.
 
 ## 📈 Dashboard
-![Business Sales Performance Analytics Dashboard](Screenshot%202026-10-05%20104208.png)
+The dashboard provides a clear overview of business sales performance using the Superstore Sales Dataset.
+
+- KPIs: Total Sales, Total Profit, and Total Orders.
+- Top 10 Products: Compares sales and profit by product.
+- Sales Trend Over Time: Tracks sales changes over time.
+- Sales by Category: Compares Furniture, Office Supplies, and Technology.
+- Sales by Region: Compares performance across four regions.
 
 ## 💡 Key Business Insights
 
@@ -50,7 +56,7 @@ The dataset contains information about products, categories, regions, sales, pro
 
 ## 📷 Dashboard Screenshot
 
-The final dashboard screenshot is included in this repository.
+![Business Sales Performance Analytics Dashboard](Screenshot%202026-10-05%20104208.png)
 
 ## 📌 Project Outcome
 
