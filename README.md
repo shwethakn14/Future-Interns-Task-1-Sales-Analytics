@@ -30,8 +30,7 @@ Dataset used: Superstore Sales Dataset
 The dataset contains information about products, categories, regions, sales, profit, orders, and other business-related fields.
 
 ## 📈 Dashboard
-
-"Business Sales Performance Analytics Dashboard" (./Screenshot%202026-10-05%20104208.png)
+![Business Sales Performance Analytics Dashboard](Screenshot%202026-10-05%20104208.png)
 
 ## 💡 Key Business Insights
 
