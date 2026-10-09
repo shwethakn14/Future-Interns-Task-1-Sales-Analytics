@@ -31,15 +31,7 @@ The dataset contains information about products, categories, regions, sales, pro
 
 ## 📈 Dashboard
 
-The dashboard includes:
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Top 10 Products – Sales vs Profit
-- Sales Trend Over Time
-- Sales by Category
-- Sales by Region
+"Business Sales Performance Analytics Dashboard" (./Screenshot%202026-10-05%20104208.png)
 
 ## 💡 Key Business Insights
 
